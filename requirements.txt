@@ -1,0 +1,3 @@
+# Python requirements for CloudCraft
+boto3
+azure-mgmt-resource
